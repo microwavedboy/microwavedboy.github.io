@@ -24,8 +24,9 @@ github_username:  microwavenby
 
 # Build settings
 markdown: kramdown
-#remote_theme: iwiedenm/jekyll-theme-massively-src
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: mint
+#theme: minima
 plugins:
   - jekyll-feed
   - jemoji
