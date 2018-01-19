@@ -24,7 +24,6 @@ github_username:  microwavenby
 
 # Build settings
 markdown: kramdown
-remote_theme: iwiedenm/jekyll-theme-massively-src
 plugins:
   - jekyll-feed
   - jemoji
