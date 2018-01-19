@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing editing in Forestry
-date: 2018-01-19 22:05:41 +0000
+date: 2018-01-19 14:25:00 -0800
 categories: jekyll update
 ---
 I'm just trying to test whether Forestry publishes my expected changes properly.
